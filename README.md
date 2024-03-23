@@ -5,3 +5,6 @@
 `git clone https://github.com/PraktikumJava/git-hints.git`
 
 ## хэш
+
+## лог
+лог и всё с ним связанное
